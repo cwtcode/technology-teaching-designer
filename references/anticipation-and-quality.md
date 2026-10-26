@@ -34,6 +34,7 @@ For each selected difficulty add a check of whether the response helped. Do not 
 - Timing includes transitions, troubleshooting, feedback, revision, and saving.
 - Prerequisites and next-stage readiness are explicit; conceptual gaps are addressed.
 - Theories explain decisions without proving outcomes; predictions and observations are separated.
+- Hong Kong secondary plans/maps identify relevant Seven Learning Goals. Requested priority values and national security fields use verified names, meaningful activities and feasible evidence; no blanket coverage claims or changes to the default outline. Assess reasoning and observable action rather than private beliefs or presumed enduring character.
 - Curriculum references have correct jurisdiction, version/status and verified identifiers.
 - Every lesson about AI has a sourced mapping to both OECD/EU AI literacy and UNESCO student competencies, with appropriate levels, task IDs, criteria and individual evidence. Keep frameworks/editions/levels distinct; label unverified mappings and teacher-designed crosswalks.
 - AI-generated products are not proof of learner understanding or AI-system-design competence; assess human decisions, technical understanding and verification where relevant.

@@ -1,6 +1,6 @@
 ---
 name: technology-teaching-designer
-description: Design progressive technology curricula and aligned lesson plans, student worksheets, teacher answers, and PowerPoint presentations for primary and secondary teachers. Recommend suitable teaching platforms and at least one achievable assessed task per lesson. Suggest topics and demonstrations, teach computing or integrate technology across subjects, and incorporate inquiry, student agency, learning theories, differentiation, anticipated difficulties, and assessment. Use for curriculum maps, schemes of work, technology teaching packs, block-based coding, pseudocode, programming, information literacy, media literacy, digital citizenship, AI literacy, vibe coding, and agentic development lessons, including Hong Kong, Singapore, US, and UK contexts.
+description: Design progressive technology curricula and aligned lesson plans, student worksheets, teacher answers, and PowerPoint presentations for primary and secondary teachers. Recommend suitable teaching platforms and at least one achievable assessed task per lesson. Suggest topics and demonstrations, teach computing or integrate technology across subjects, and incorporate inquiry, student agency, learning theories, differentiation, anticipated difficulties, and assessment. Use for curriculum maps, schemes of work, technology teaching packs, block-based coding, pseudocode, programming, information literacy, media literacy, digital citizenship, AI literacy, vibe coding, and agentic development lessons, including Hong Kong, Singapore, US, and UK contexts. Support Hong Kong secondary learning goals and teacher-requested priority values and national security education elements.
 ---
 
 # Technology Teaching Designer
@@ -29,6 +29,7 @@ Read supplied curriculum documents and examples before claiming alignment. Respe
 - Read [lesson-plan-format.md](references/lesson-plan-format.md) for every lesson plan: use the teacher’s two-table school format by default, unless a current request supplies another format.
 - Read [ai-framework-alignment.md](references/ai-framework-alignment.md) before designing or reviewing any lesson/unit about AI, including AI literacy, vibe coding and agentic development; map to both OECD/EU and UNESCO student frameworks.
 - Read [information-and-media-literacy.md](references/information-and-media-literacy.md) for source evaluation, media messages, information use, digital citizenship, or related curriculum mapping; choose embedded or standalone delivery.
+- Read [hong-kong-curriculum-elements.md](references/hong-kong-curriculum-elements.md) for Hong Kong secondary lessons/maps and teacher-requested priority values or national security education integration.
 - Read [learning-and-inquiry.md](references/learning-and-inquiry.md) for theoretical rationale, inquiry, agency, and evaluation.
 - Read [materials.md](references/materials.md) for worksheets, answers, and slide decks.
 - Read [anticipation-and-quality.md](references/anticipation-and-quality.md) for likely difficulties, adaptations, and final checks.
@@ -78,6 +79,12 @@ Provide a bounded choice with intellectual consequences, not only colour or them
 Use the teacher’s requested mode: embed a focused literacy objective and assessed activity within a subject/technology lesson, or design a standalone literacy lesson or sequence. When unspecified, select and explain the best fit without automatically adding extra lessons. Information/media literacy extends beyond AI, online safety, and software operation. Read information-and-media-literacy.md, select age-appropriate learning targets, and preserve the subject objectives and time budget. Give each lesson a completed assessable task; a reminder to “check sources” or “use responsibly” is insufficient. Use the existing lesson-plan format and align worksheets/slides with the selected literacy objectives.
 
 For Hong Kong, use the supplied 2024 Information Literacy Learning Framework as a dated reference, select the correct key stage and literacy area, and cite verified sections/pages. Do not describe it as the latest without checking or claim that a teacher-designed task is an official requirement. Build information/media literacy as a parallel curriculum strand; do not make coding experience a general prerequisite.
+
+### Connect Hong Kong curriculum elements to actual learning
+
+For Hong Kong secondary lessons and curriculum maps, read hong-kong-curriculum-elements.md and connect the design to relevant Updated Seven Learning Goals of Secondary Education. Select a small justified subset; distinguish contribution to a broad goal from evidence of a specific lesson objective. When teachers request values education and/or national security education, select appropriate elements from the twelve priority values and attitudes and/or twenty major fields, honouring any named selections. Explain each connection through a concrete activity, student decision and observable evidence. If a requested element has no sound connection, propose an adaptation or a separate lesson rather than adding a decorative label.
+
+Keep a concise alignment matrix in teacher notes and brief signposts in Remarks; retain the four-column outline. Preserve the subject objectives, platform recommendation, completed assessed task and realistic timing, updating worksheets/slides consistently. For maps, show purposeful introduction, practice and revisiting across units. Cite official sources and distinguish teacher-designed integration from official requirements; do not force all seven goals, twelve values or twenty fields into every lesson. These local connections supplement the existing information/media literacy and OECD/EU–UNESCO AI mappings.
 
 ## 7. Anticipate difficulties and justify design
 
