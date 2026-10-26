@@ -1,0 +1,14 @@
+interface:
+  display_name: Technology Teaching Designer
+  short_description: Plan curricula, lessons, worksheets, and slide decks
+  default_prompt: Use $technology-teaching-designer to design a coherent technology
+    curriculum or teaching pack with inquiry, scaffolding, and assessment.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
